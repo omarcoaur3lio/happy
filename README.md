@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#:bookmark: Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-## :bookmark: Sobre
+## Sobre
 O **Happy: Leve felicidade para o mundo, visite orfanatos e mude a vida de muitas crianças** — é uma aplicação idealizada para que os usuários encontrem orfanatos próximos a sua localização, assim como possam realizar o cadastro de novos orfanatos.
 
 Este projeto foi idealizado pela [Rocketseat](https://rocketseat.com.br/), e desenvolvido durante a **Level Week #3** em alusão ao **dia das crianças (12/10)**.
