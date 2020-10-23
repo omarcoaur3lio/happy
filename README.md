@@ -46,6 +46,6 @@ Este projeto foi idealizado pela [Rocketseat](https://rocketseat.com.br/), e des
 
 ## :clapper: Demonstração 
 <p style="display: flex; align-itens:cener; justify-content: center">
-  <img src="./github/demonstracao.gif" alt="demonstracao" width="70%" /> &nbsp;&nbsp;&nbsp;&nbsp
+  <img src="./github/demo-web.gif" alt="demonstracao" width="70%" /> &nbsp;&nbsp;&nbsp;&nbsp
   <img src="./github/demo-mobile.gif" alt="demo-mobile" height="400px">
 </p>
