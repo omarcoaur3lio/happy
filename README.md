@@ -45,7 +45,9 @@ O **Happy: Leve felicidade para o mundo, visite orfanatos e mude a vida de muita
 Este projeto foi idealizado pela [Rocketseat](https://rocketseat.com.br/), e desenvolvido durante a **Level Week #3** em alusão ao **dia das crianças (12/10)**.
 
 ## :clapper: Demonstração 
-<p style="display: flex; align-itens:cener; justify-content: center">
-  <img src="./github/web-demo.gif" alt="demonstracao" width="70%" /> &nbsp;&nbsp;&nbsp;&nbsp
-  <img src="./github/demo-mobile.gif" alt="demo-mobile" height="390px">
+<p align="center">
+  <div>
+   <img src="./github/web-demo.gif" alt="demonstracao" width="70%" /> &nbsp;&nbsp;&nbsp;&nbsp
+   <img src="./github/demo-mobile.gif" alt="demo-mobile" height="390px">
+  </div>
 </p>
